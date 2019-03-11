@@ -1,6 +1,8 @@
 {
-  "browserify" : {
-    "dist/lib.js" : "./src/browserify.js"
+  "js" : {
+    "angular": [
+      "src/angular.js"
+    ]
   },
   "exclude": {
   },
