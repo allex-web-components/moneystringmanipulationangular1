@@ -1,0 +1,29 @@
+{
+  "name": "allex_moneystringmanipulationangular1webcomponent",
+  "version": "1.0.0",
+  "description": "Angular1 lib for allex_moneystringmanipulationwebcomponent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-web-components/moneystringmanipulationangular1.git"
+  },
+  "dependencies": {
+    "allex_moneystringmanipulationwebcomponent": "1.x"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "money",
+    "string",
+    "manipulation",
+    "angular"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-web-components/moneystringmanipulationangular1/issues"
+  },
+  "homepage": "https://github.com/allex-web-components/moneystringmanipulationangular1#readme"
+}

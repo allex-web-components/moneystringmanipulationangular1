@@ -1,0 +1,11 @@
+{
+  "browserify" : {
+    "dist/lib.js" : "./src/browserify.js"
+  },
+  "exclude": {
+  },
+  "protoboard": {
+    "role": "web_component"
+  }
+}
+
