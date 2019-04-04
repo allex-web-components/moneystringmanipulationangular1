@@ -4,7 +4,9 @@
       "src/angular.js"
     ]
   },
-  "exclude": {
+  "actualtarget": ["dist", "angular.js"],
+  "dependencies": {
+    "js": ["allex:moneystringmanipulation:webcomponent"]
   },
   "protoboard": {
     "role": "web_component"
